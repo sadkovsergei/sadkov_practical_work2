@@ -1,0 +1,7 @@
+
+.vs/
+App.config
+Properties/
+sadkovGit.csproj
+sadkovGit.sln
+obj/
