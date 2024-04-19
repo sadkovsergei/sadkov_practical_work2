@@ -12,8 +12,7 @@ namespace sadkovGit
         {
             int x = 64, y = 8;
             Console.WriteLine($"Вывод: {(x/y)*5}");
-            Console.ReadKey
-                ();
+            Console.ReadKey();
         }
     }
 }
